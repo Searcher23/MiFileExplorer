@@ -2,27 +2,17 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201302132</code>
-  <name>Mi File Explorer v3.1.1 Trial (201302132)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=1726711</link>
+  <code>201302171</code>
+  <name>Mi File Explorer v3.1.3 (201302171)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=1737845</link>
   <log>
-    - Fixed another root bug "/data/user"
-    - Improved browsing performance
-    - Added BOX cloud
-    - Made a better thumbnails loader
-    - Added copy inside DropBox
-    - Fixed bug for changing View Mode Setting
-    - Removed date string from Grid View mode
-    - Removed Show Hidden files Settings (Always True)
-    - Mixed Home Folder and First Tab Settings
-    - Added Sky Drive cloud
-    - Added Google Drive cloud
-    - Improved files operation performance
-    - Changed favorites to works just for directories and zip files
-    - Added zip viewer; not perfect but works
-    - Added operation dialog for extracting and compressing zip files
-    - Extracting RAR archives not supported for a while
-    - Updated some languages + Vietnamese
+    - Copy files from inside encrypted zip file even to /data folder
+    - Send files from inside encrypted zip files
+    - Show update notification once a day
+    - Add local file to folder inside the zip file
+    - Create file and folder inside the zip file
+    - View Files from anywhere (clouds and even inside an encrypted zip file) 
+    - Fixed some small bugs
   </log>
   <donate>http://tinyurl.com/apooonet-paypal</donate>
   <auto>false</auto>
