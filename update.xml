@@ -12,7 +12,6 @@
     - Added progress dialog for removing thumbnails in the settings.
     - Fixed canceling operation in Box, Drive and SkyDrive clouds.
     - Removed lock icon from Google Drive files list.
-    - Fixed wrong operation progress value in Box and DropBox.
     - Added copy/paste files between clouds.
     - Fixed extract zip file from 'Archives Category' list
     - Fixed some small bugs.
