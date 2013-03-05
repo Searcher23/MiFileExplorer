@@ -2,21 +2,32 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201302221</code>
-  <name>Mi File Explorer v3.1.4 (201302221)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=1751208</link>
+  <code>201303051</code>
+  <name>Mi File Explorer v3.1.5 (201303051)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=1781752</link>
   <log>
-    - Optimized to fling lists a little smoother.
-    - Fixed "Open as" bugs happened in the previous version.
-    - Added loading zip files from clouds (like the other files)
-    - Added progress dialog for removing thumbnails in the settings.
-    - Fixed canceling operation in Box, Drive and SkyDrive clouds.
-    - Removed lock icon from Google Drive files list.
-    - Added copy/paste files between clouds.
-    - Fixed extract zip file from 'Archives Category' list
-    - Fixed some small bugs.
-    - Updated some languages + Traditional Chinese + Kurdish
+    - Disabled auto-refresh in the file list (except when mounting/unmounting sd-card).
+    - Optimized to remove the files fast in category pages.
+    - Fixed wrong operation progress value which was not fixed completely in previous version.
+    - Added extracting and viewing jar, mtz (MIUI theme extension) files like a zip file.
+    - Changed to not clear thumbnails from memory cache when the app paused or directory changed.
+    - Removed error page when SD card is not available.
+    - Fixed wrong menu items. :o
+    - Added extracting apk files.
+    - Added view and extract RAR files + copy file from inside a RAR file
+    - Fixed bug when opening a text file
+    - Added Hide button to the operation dialog (doing operations in background).
+    - Fixed animation flicker when browsing page.
+    - Added exit popup again :D but only on browse page.
+    - Added supporting tar, gzip, bzip2
+    - Optimized files operation for better performance, I hope force close not happening again.
+    - Optimized browsing files speed :D
+    - Added ascending and descending order to the sort menu
+    - Removed "View Mode" from the settings page and added to the options menu.
+    - Added extract menu button to ARCHIVE and APK categories
+    - Updated some languages + Indonesian
+    - Fixed lots of tiny bugs.
   </log>
-  <donate>http://tinyurl.com/apooonet-paypal</donate>
+  <donate>w.parsa@gmail.com</donate>
   <auto>false</auto>
 </update>
