@@ -2,31 +2,17 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201303051</code>
-  <name>Mi File Explorer v3.1.5 (201303051)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=1781752</link>
+  <code>201303072</code>
+  <name>Mi File Explorer v3.1.6 (201303072)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=1785771</link>
   <log>
-    - Disabled auto-refresh in the file list (except when mounting/unmounting sd-card).
-    - Optimized to remove the files fast in category pages.
-    - Fixed wrong operation progress value which was not fixed completely in previous version.
-    - Added extracting and viewing jar, mtz (MIUI theme extension) files like a zip file.
-    - Changed to not clear thumbnails from memory cache when the app paused or directory changed.
-    - Removed error page when SD card is not available.
-    - Fixed wrong menu items. :o
-    - Added extracting apk files.
-    - Added view and extract RAR files + copy file from inside a RAR file
-    - Fixed bug when opening a text file
-    - Added Hide button to the operation dialog (doing operations in background).
-    - Fixed animation flicker when browsing page.
-    - Added exit popup again :D but only on browse page.
-    - Added supporting tar, gzip, bzip2
-    - Optimized files operation for better performance, I hope force close not happening again.
-    - Optimized browsing files speed :D
-    - Added ascending and descending order to the sort menu
-    - Removed "View Mode" from the settings page and added to the options menu.
-    - Added extract menu button to ARCHIVE and APK categories
-    - Updated some languages + Indonesian
-    - Fixed lots of tiny bugs.
+    - Fixed some mistakes in files operations.
+    - Fixed visibility of time remained and bytes per seconds in operation dialog.
+    - Fixed opening and saving text file bug on FTP client.
+    - Optimized FTP Client for better performance (Not works perfect yet)
+    - Fixed a bug on files selection.
+    - Added copying files to folders which is not writable like "/Data" when using FTP Server.
+    - Updated some languages
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>false</auto>
