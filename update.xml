@@ -2,17 +2,40 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201303072</code>
-  <name>Mi File Explorer v3.1.6 (201303072)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=1785771</link>
+  <code>201309241</code>
+  <name>Mi File Explorer v4.0 (201309241)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2280389</link>
   <log>
-    - Fixed some mistakes in files operations.
-    - Fixed visibility of time remained and bytes per seconds in operation dialog.
-    - Fixed opening and saving text file bug on FTP client.
-    - Optimized FTP Client for better performance (Not works perfect yet)
-    - Fixed a bug on files selection.
-    - Added copying files to folders which is not writable like "/Data" when using FTP Server.
-    - Updated some languages
+    - Changed to ICS style.
+    - Added two more list view mode.
+    - Added search recursively from the current directory.
+    - Added Uninstall menu option for packages.
+    - Fixed Archive viewer mistakes and decompressing bugs.
+    - Added skin selector.
+    - Added SMB Explorer.
+    - Added SFTP Explorer.
+    - Optimized FTP Explorer for better performance.
+    - Added WebDav Explorer
+    - Added Password protect folders
+    - Added FTP server switch widget
+    - Added APPs category
+    - Added MOVE operation for different storages (COPY+verify size+DELETE)
+    - Added Multiple operations support
+    - Made universal cloud library and added modules for: 
+        Box,   (done)
+        DropBox,    (done)
+        SugarSync,    (done)
+        Sky Drive,    (done)
+        Google Drive,    (done)
+        Ubuntu One,   (done)
+        Copy,   (done)
+        Mediafire,   (done)
+        RapidShare,   (done)
+        MegaCloud,   (done)
+        IDrive   (done)
+        Mega, (done but works weird :D)
+        4Sync (not finished)
+        Yandex, OwnCloud, 4shared (support WebDav)
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>false</auto>
