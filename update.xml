@@ -2,27 +2,11 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201309291</code>
-  <name>Mi File Explorer v4.0.1 (201309291)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2291026</link>
+  <code>201401151</code>
+  <name>Mi File Explorer v4.0.1 (201401151)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2517638</link>
   <log>
-    - Fixed bug for normal install and uninstall commands.
-    - Optimized operations notification for 3.0- ROM's.
-    - Fixed loading FTP widget icon on old ROM's
-    - Fixed login to FTP server with Uppercase username.
-    - Fixed a bug for "When you paste a copied file, the original file will be disappeared until you refresh the list."
-    - Optimized Shell execution for using Toolbox.
-    - Fixed not interrupting folder size calculation when you close the properties dialog.
-    - Optimized bookmarking feature and directory navigation.
-    - Added Search local IP's feature for samba.
-    - Added "All Media" category for android 3.0+. Usable to search files very fast on primary sd card (Need to reinstall the app)
-    - Fixed circle progress icon for external skins.
-    - Reversed operation task list.
-    - Optimized default skin and dialog buttons size for old ROM's.
-    - Fixed changing locale language for 3.0- ROM's.
-    - Added start/stop FTP server menu option inside the app. (Click on notification bar to access the setting page)
-    - Fixed disappearing list on old ROM's.
-    - Fixed FCs on authentication dialog.
+    - Please visit the website for information.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>false</auto>
