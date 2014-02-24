@@ -2,11 +2,22 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201402161</code>
-  <name>Mi File Explorer v4.2.9</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2582987</link>
+  <code>201402241</code>
+  <name>Mi File Explorer v4.3 (201402241)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2597809</link>
   <log>
-    - Please visit the website for the information.
+    - Increase startup speed.
+    - Optimized scrolling (is noticeably smoother)
+    - Fixed FC on servers configuration page.
+    - Fixed deleting net files.
+    - Fixed copying from GDrive.
+    - Fixed searching in categories.
+    - Increased unrar speed (not encrypted).
+    - Added directories history (at the end of directory path segments dialog).
+    - Added auto update option in the settings page.
+    - Added kill-app option in the settings page.
+    - Added 'APE' as a music extension.
+    - Fixed lots of other tiny bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>false</auto>
