@@ -2,22 +2,24 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201402241</code>
-  <name>Mi File Explorer v4.3 (201402241)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2597809</link>
+  <code>201403024</code>
+  <name>Mi File Explorer v4.3.1 (201403024)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2609985</link>
   <log>
-    - Increase startup speed.
-    - Optimized scrolling (is noticeably smoother)
-    - Fixed FC on servers configuration page.
-    - Fixed deleting net files.
-    - Fixed copying from GDrive.
-    - Fixed searching in categories.
-    - Increased unrar speed (not encrypted).
-    - Added directories history (at the end of directory path segments dialog).
-    - Added auto update option in the settings page.
-    - Added kill-app option in the settings page.
-    - Added 'APE' as a music extension.
-    - Fixed lots of other tiny bugs.
+    - Fixed deleting directories on samba.
+    - Fixed SFTP login bug.
+    - Fixed set as ringtone.
+    - Added Ringtone picker.
+    - Added 'Go to location' option in category lists.
+    - Added 'Open in new tab' option for folders.
+    - Added 'All Folders' list in bookmarks. (Android 3.0+) (Need to reset defaults in the settings page)
+    - Improved sorting files with unicode file names.
+    - Fixed FC on bluetooth page.
+    - Removed 'Refresh button' from bottom bar.
+    - Added pull to refresh. (Hold the list a little bit longer to show the category bar)
+    - Added lock button to bookmarks drawer.
+    - Fixed to not show thumb preview on locked folders.
+    - Fixed lots of tiny bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>true</auto>
