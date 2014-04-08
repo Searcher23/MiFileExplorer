@@ -2,29 +2,19 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201403032</code>
-  <name>Mi File Explorer v4.3.2 (201403032)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2610796</link>
+  <code>201404082</code>
+  <name>MiXplorer v4.4.5 (201404082)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2675519&d=1396983769</link>
   <log>
-    v4.3.2:
-    - Fixed auto update alert. (for the next version)
-    - Restricted access to locked folders from Bookmarks drawer and History dialog.
-    
-    v4.3.1:
-    - Fixed deleting directories on samba.
-    - Fixed SFTP login bug.
-    - Fixed set as ringtone.
-    - Added Ringtone picker.
-    - Added 'Go to location' option in category lists.
-    - Added 'Open in new tab' option for folders.
-    - Added 'All Folders' list in bookmarks. (Android 3.0+) (Need to reset defaults in the settings page)
-    - Improved sorting files with unicode file names.
-    - Fixed FC on bluetooth page.
-    - Removed 'Refresh button' from bottom bar.
-    - Added pull to refresh. (Hold the list a little bit longer to show the category bar)
-    - Added lock button to bookmarks drawer.
-    - Fixed to not show thumb preview on locked folders.
-    - Fixed lots of tiny bugs.
+    v4.4.5:
+    - Changed title to MiXplorer.
+    - Changed En/Decryption method to AES-Crypte. (AESCrypt.com)
+    - Added Analyzed List/Grid view mode.
+    - Fixed Mega.co.nz problems.
+    - Added HubiC cloud.
+    - Added auto refresh list for FTP server.
+    - Fixed FC on exit.
+    - And a lot of tiny changes and bug fixes and also added some new bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>true</auto>
