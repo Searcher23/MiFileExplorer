@@ -2,10 +2,16 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201404082</code>
-  <name>MiXplorer v4.4.5 (201404082)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2675519</link>
+  <code>201404091</code>
+  <name>MiXplorer v4.4.6 (201404091)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2677464</link>
   <log>
+    v4.4.6:
+    - Fixed FC on old Android versions.
+    - Added Folders first to Sort By options.
+    - Fixed some tiny bugs.
+    - Added some new themes.
+    
     v4.4.5:
     - Changed title to MiXplorer.
     - Changed En/Decryption method to AES-Crypte. (AESCrypt.com)
