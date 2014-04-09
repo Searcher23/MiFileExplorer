@@ -20,6 +20,7 @@
     - Added HubiC cloud.
     - Added auto refresh list for FTP server.
     - Fixed FC on exit.
+    - Added add/remove file to/from zip file. (need more test)
     - And a lot of tiny changes and bug fixes and also added some new bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
