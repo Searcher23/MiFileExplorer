@@ -17,7 +17,7 @@
     - Fixed some clouds problems.
     - Added Meo Cloud.
     - Removed MegaCloud and Ubuntu-one.
-    - Added EncFS (Volume folder must end with .encfs).
+    - Added EncFS (Volume root folder must end with .encfs).
     - Fixed lots of tiny bugs.
     
     v4.4.13:
