@@ -2,26 +2,35 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201404091</code>
-  <name>MiXplorer v4.4.6 (201404091)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2677464</link>
+  <code>201405121</code>
+  <name>MiXplorer v4.5.0 (201405121)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2739837</link>
   <log>
-    v4.4.6:
-    - Fixed FC on old Android versions.
-    - Added Folders first to Sort By options.
-    - Fixed some tiny bugs.
-    - Added some new themes.
+    v4.5.0:
+    - Added Select "Only files" and "Items between" options to selection popup.
+    - Added Shredder option to destroy files before deleting them.
+    - Reordered TLS cipher suites for secure connections.
+    - Removed locking folders, we only have startup lock.
+    - Added selecting items from multiple tabs.
+    - Added drag-drop items between tabs.
+    - Fixed some UI problems.
+    - Fixed some clouds problems.
+    - Added Meo Cloud.
+    - Removed MegaCloud and Ubuntu-one.
+    - Added EncFS (Volume folder must end with .encfs).
+    - Fixed lots of tiny bugs.
     
-    v4.4.5:
-    - Changed title to MiXplorer.
-    - Changed En/Decryption method to AES-Crypte. (AESCrypt.com)
-    - Added Analyzed List/Grid view mode.
-    - Fixed Mega.co.nz problems.
-    - Added HubiC cloud.
-    - Added auto refresh list for FTP server.
-    - Fixed FC on exit.
-    - Added add/remove file to/from zip file. (need more test)
-    - And a lot of tiny changes and bug fixes and also added some new bugs.
+    v4.4.13:
+    - Fixed auto remove finished tasks.
+    - Fixed some History bugs.
+    - Added new custom Search box for categories because of KitKat "global search" problem.
+    - Added Rename shortcut.
+    - Added getting public link from clouds (Share menu option).
+    - Fixed samba folders size.
+    - Added cleared list view mode.
+    - Fixed History issues.
+    - Added multi-line file names.
+    - Fixed Some other tiny bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>false</auto>
