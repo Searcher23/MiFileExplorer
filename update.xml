@@ -2,10 +2,17 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201405121</code>
-  <name>MiXplorer v4.5.0 (201405121)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2739837</link>
+  <code>201405141</code>
+  <name>MiXplorer v4.5.2 (201405141)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2743286</link>
   <log>
+    v4.5.2:
+    - Fixed root problems.
+    - Fixed Google drive issues.
+    - Changed drag-drop files dialog.
+    - Fixed auto rename packages.
+    - And some other tiny bugs and changes.
+  
     v4.5.0:
     - Added Select "Only files" and "Items between" options to selection popup.
     - Added Shredder option to destroy files before deleting them.
@@ -33,5 +40,5 @@
     - Fixed Some other tiny bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
-  <auto>false</auto>
+  <auto>true</auto>
 </update>
