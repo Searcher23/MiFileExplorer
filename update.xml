@@ -2,10 +2,15 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201405143</code>
-  <name>MiXplorer v4.5.2 (201405143)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2743286</link>
+  <code>201405261</code>
+  <name>MiXplorer v4.6.4 (201405261)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2763627</link>
   <log>
+    v4.6.4:
+    - Added opening zip files everywhere as fast as possible.
+    - Most of features are improved and optimized.
+    - Fixed a lot of bugs.
+
     v4.5.2:
     - Fixed root problems.
     - Fixed Google drive issues.
@@ -13,7 +18,7 @@
     - Fixed auto rename packages.
     - Fixed sending files from categories.
     - And some other tiny bugs and changes.
-  
+
     v4.5.0:
     - Added Select "Only files" and "Items between" options to selection popup.
     - Added Shredder option to destroy files before deleting them.
@@ -25,20 +30,8 @@
     - Fixed some clouds problems.
     - Added Meo Cloud.
     - Removed MegaCloud and Ubuntu-one.
-    - Added EncFS (Volume root folder must end with .encfs).
+    - Added EncFS (Volume root folder must ends with .encfs).
     - Fixed lots of tiny bugs.
-    
-    v4.4.13:
-    - Fixed auto remove finished tasks.
-    - Fixed some History bugs.
-    - Added new custom Search box for categories because of KitKat "global search" problem.
-    - Added Rename shortcut.
-    - Added getting public link from clouds (Share menu option).
-    - Fixed samba folders size.
-    - Added cleared list view mode.
-    - Fixed History issues.
-    - Added multi-line file names.
-    - Fixed Some other tiny bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>true</auto>
