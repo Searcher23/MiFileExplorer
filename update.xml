@@ -8,10 +8,10 @@
   <log>
     v4.6.5:
     - Fixed decrypting EncFs files.
-    - Fixed uploading into Baidu storage.
     - Fixed Add new file/folder issue.
     - Fixed deleting Encfs volume.
     - Disabled Copy.com on previous versions.
+    - Fixed uploading to Copy.com and Baidu storage.
     - Fixed login to webdav.
     - Plus some tiny changes.
 
