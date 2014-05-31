@@ -2,36 +2,23 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201405261</code>
-  <name>MiXplorer v4.6.4 (201405261)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2763627</link>
+  <code>201405311</code>
+  <name>MiXplorer v4.6.5 (201405311)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2773323</link>
   <log>
+    v4.6.5:
+    - Fixed decrypting EncFs files.
+    - Fixed uploading into Baidu storage.
+    - Fixed Add new file/folder issue.
+    - Fixed deleting Encfs volume.
+    - Disabled Copy.com on previous versions.
+    - Fixed login to webdav.
+    - Plus some tiny changes.
+
     v4.6.4:
     - Added opening zip files everywhere as fast as possible.
     - Most of features are improved and optimized.
     - Fixed a lot of bugs.
-
-    v4.5.2:
-    - Fixed root problems.
-    - Fixed Google drive issues.
-    - Changed drag-drop files dialog.
-    - Fixed auto rename packages.
-    - Fixed sending files from categories.
-    - And some other tiny bugs and changes.
-
-    v4.5.0:
-    - Added Select "Only files" and "Items between" options to selection popup.
-    - Added Shredder option to destroy files before deleting them.
-    - Reordered TLS cipher suites for secure connections.
-    - Removed locking folders, we only have startup lock.
-    - Added selecting items from multiple tabs.
-    - Added drag-drop items between tabs.
-    - Fixed some UI problems.
-    - Fixed some clouds problems.
-    - Added Meo Cloud.
-    - Removed MegaCloud and Ubuntu-one.
-    - Added EncFS (Volume root folder must ends with .encfs).
-    - Fixed lots of tiny bugs.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>true</auto>
