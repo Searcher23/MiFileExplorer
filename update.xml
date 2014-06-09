@@ -2,23 +2,25 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201405311</code>
-  <name>MiXplorer v4.6.5 (201405311)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2773323</link>
+  <code>201406091</code>
+  <name>MiXplorer v4.7.0 (201406091)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2789352</link>
   <log>
-    v4.6.5:
-    - Fixed decrypting EncFs files.
-    - Fixed Add new file/folder issue.
-    - Fixed deleting Encfs volume.
-    - Disabled Copy.com on previous versions.
-    - Fixed uploading to Copy.com and Baidu storage.
-    - Fixed login to webdav.
-    - Plus some tiny changes.
+    v4.7.0:
+    - Fixed download/copy from Baidu cloud.
+    - Added export/import all preferences and bookmarks.
+    - Fixed saving password in server config page.
+    - Fixed Text Reader. (still needs improvement)
+    - Fixed drag-drop items in old Android versions.
+    - Added custom file associations dialog.
+    - Added refresh button to bottom bar and 'Add button' moved to top-right menu.
+    - And some tiny changes and bug fixes.
 
-    v4.6.4:
-    - Added opening zip files everywhere as fast as possible.
-    - Most of features are improved and optimized.
-    - Fixed a lot of bugs.
+    v4.6.6:
+    - Added Background Dim option for transparent skins.
+    - Fixed single-quote issue in database.
+    - Fixed some WebDav bugs.
+    - Fixed login to some servers and added option to trust certificates. (Add 'trust=1' or 'trust=true' in advanced settings)
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>false</auto>
