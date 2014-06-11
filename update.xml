@@ -2,10 +2,17 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201406091</code>
-  <name>MiXplorer v4.7.0 (201406091)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2789352</link>
+  <code>201406112</code>
+  <name>MiXplorer v4.7.1 (201406112)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2792964</link>
   <log>
+    v4.7.1:
+    - Fixed Baidu login. :o
+    - Fixed deleting local EncFS files.
+    - Fixed FC when making thumbnails.
+    - Sorting file list with alpha-numeric names.
+    - And some tiny changes.
+
     v4.7.0:
     - Fixed download/copy from Baidu cloud.
     - Added export/import all preferences and bookmarks.
