@@ -2,10 +2,18 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201406112</code>
-  <name>MiXplorer v4.7.1 (201406112)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2792964</link>
+  <code>201406141</code>
+  <name>MiXplorer v4.7.2 (201406141)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2798019</link>
   <log>
+    Notice: Please uninstall the versions prior to 4.7.0 before installing the last one, sorry!
+    
+    v4.7.2:
+    - Fixed and Optimized decompressing rar files.
+    - Fixed creating folder, empty file and moving files to EncFS volume.
+    - Fixed Export feature.
+    - Disabled Text Reader till I fix and improve it.
+
     v4.7.1:
     - Fixed Baidu login. :o
     - Fixed deleting local EncFS files.
@@ -30,5 +38,5 @@
     - Fixed login to some servers and added option to trust certificates. (Add 'trust=1' or 'trust=true' in advanced settings)
   </log>
   <donate>w.parsa@gmail.com</donate>
-  <auto>false</auto>
+  <auto>true</auto>
 </update>
