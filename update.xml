@@ -2,11 +2,18 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201406141</code>
-  <name>MiXplorer v4.7.2 (201406141)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2798019</link>
+  <code>201406171</code>
+  <name>MiXplorer v4.7.3 (201406171)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2803845</link>
   <log>
     Notice: Please uninstall the versions prior to 4.7.0 before installing the last one, sorry!
+    
+    v4.7.3:
+    - Fixed some of Text Reader bugs.
+    - Fixed searching inside root directories.
+    - Added .nosearch to 'Add...' menu option which helps you to make a folder invisible to search function.
+    - Fixed date-time for system files.
+    - Plus some tiny changes.
     
     v4.7.2:
     - Fixed and Optimized decompressing rar files.
@@ -30,12 +37,6 @@
     - Added custom file associations dialog.
     - Added refresh button to bottom bar and 'Add button' moved to top-right menu.
     - And some tiny changes and bug fixes.
-
-    v4.6.6:
-    - Added Background Dim option for transparent skins.
-    - Fixed single-quote issue in database.
-    - Fixed some WebDav bugs.
-    - Fixed login to some servers and added option to trust certificates. (Add 'trust=1' or 'trust=true' in advanced settings)
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>true</auto>
