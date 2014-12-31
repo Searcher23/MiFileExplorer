@@ -3,40 +3,32 @@
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
   <code>201406171</code>
-  <name>MiXplorer v4.7.3 (201406171)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=2803845</link>
+  <name>MiXplorer v5.0.20 (201412312)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=3090437&d=1419993728</link>
   <log>
-    Notice: Please uninstall the versions prior to 4.7.0 before installing the last one, sorry!
+    Notice: Version 4.x plugins are not compatible anymore!
     
-    v4.7.3:
-    - Fixed some of Text Reader bugs.
-    - Fixed searching inside root directories.
-    - Added .nosearch to 'Add...' menu option which helps you to make a folder invisible to search function.
-    - Fixed date-time for system files.
-    - Plus some tiny changes.
-    
-    v4.7.2:
-    - Fixed and Optimized decompressing rar files.
-    - Fixed creating folder, empty file and moving files to EncFS volume.
-    - Fixed Export feature.
-    - Disabled Text Reader till I fix and improve it.
-
-    v4.7.1:
-    - Fixed Baidu login. :o
-    - Fixed deleting local EncFS files.
-    - Fixed FC when making thumbnails.
-    - Sorting file list with alpha-numeric names.
-    - And some tiny changes.
-
-    v4.7.0:
-    - Fixed download/copy from Baidu cloud.
-    - Added export/import all preferences and bookmarks.
-    - Fixed saving password in server config page.
-    - Fixed Text Reader. (still needs improvement)
-    - Fixed drag-drop items in old Android versions.
-    - Added custom file associations dialog.
-    - Added refresh button to bottom bar and 'Add button' moved to top-right menu.
-    - And some tiny changes and bug fixes.
+    v5.0.20: 
+    - Changed Package name to "com.android.mixplorer".
+    - Added MP3 Tag Editor.
+    - Optimized icons quality.
+    - Fixed to delete source folder after moving it.
+    - Moved History inside left drawer.
+    - Fixed to keep urls arrangement in History list.
+    - Replaced the location of Servers and Add buttons.
+    - Added Customize Skin dialog and only two options for now.
+    - Added landscape dual panel (Experimental)
+    - Improved to encrypt password and tokens secret in database.
+    - Added Paste-to option for share option list.
+    - Fixed to not create zip64 for small zip file.
+    - Added Next/Previous buttons in the Properties dialog when you choose multiple files.
+    - Fixed streaming media files.
+    - Fixed and Optimized streaming.
+    - Made a new powerful Text Editor.
+    - Added customizing colors in selected theme.
+    - SFTP client improved.
+    - Optimized UI.
+    - And fixed other thousands bugs, I guess!
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>true</auto>
