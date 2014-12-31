@@ -15,7 +15,6 @@
     - Fixed to delete source folder after moving it.
     - Moved History inside left drawer.
     - Fixed to keep urls arrangement in History list.
-    - Replaced the location of Servers and Add buttons.
     - Added Skin customization.
     - Added dual panel in landscape mode.
     - Improved to encrypt password and tokens secret in database.
