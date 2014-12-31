@@ -16,7 +16,6 @@
     - Added Skin customization.
     - Added dual panel in landscape mode.
     - Improved to encrypt password and tokens secret in database.
-    - Added Paste-to option for share option list.
     - Fixed to not create zip64 for small zip file.
     - Added Next/Previous buttons in the Properties dialog when you choose multiple files.
     - Fixed and Optimized streaming feature.
