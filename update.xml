@@ -2,12 +2,16 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201501011</code>
-  <name>MiXplorer v5.0.21 (201501011)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=3091782</link>
+  <code>201501012</code>
+  <name>MiXplorer v5.0.21 (201501012)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=3092403</link>
   <log>
     Notice: Version 4.x plugins are not compatible anymore!
-    Please follow MiXplorer@twitter.com to get update notification.
+    - Auto-update removed. So please follow MiXplorer@twitter.com to get update notification.
+    
+    v5.0.21-201501012
+    - Fixed loading skins.
+    - Fixed system files modified time.
     
     v5.0.21: 
     - Optimized UI and some icons quality.
