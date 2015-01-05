@@ -16,7 +16,7 @@
     - Fixed status bar overlapping issue after changing Language or Skin.
     - Changed to display drawer over action bar and related buttons moved into drawer.
     - Changed title to "File Manager" in launcher.
-    - Fixed UI glitch on selecting an items.
+    - Fixed UI glitch on selecting items.
     
     v5.0.22-201501034:
     - Added an option to settings to show the folder path in the main bar.
