@@ -2,13 +2,26 @@
 <update>
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
-  <code>201501014</code>
-  <name>MiXplorer v5.0.21 (201501014)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=3093055</link>
+  <code>201501051</code>
+  <name>MiXplorer v5.0.23 (201501051)</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=3098813</link>
   <log>
     Notice: Version 4.x plugins are not compatible anymore!
     - Auto-update removed. So please follow MiXplorer@twitter.com to get update notification.
     
+    v5.0.23-201501051:
+    - Fixed wrong offset in system files modified time.
+    - Fixed wrong modified time in categories in latest builds.
+    - Added Split action bar option in settings page.
+    - Fixed status bar overlapping issue after changing Language or Skin.
+    - Changed to display drawer over action bar and related buttons moved into drawer.
+    - Changed title to "File Manager" in launcher.
+    - Fixed UI glitch on selecting an items.
+    
+    v5.0.22-201501034:
+    - Added an option to settings to show the folder path in the main bar.
+    - Fixed some little bugs.
+
     v5.0.21-201501014
     - Fixed loading new saved skins.
     - Fixed Go-to problem in Text editor for huge text files.
