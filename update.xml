@@ -3,60 +3,52 @@
   <dev>Hootan Parsa</dev>
   <site>http://forum.xda-developers.com/showthread.php?t=1523691</site>
   <code>201501051</code>
-  <name>MiXplorer v5.0.23 (201501051)</name>
-  <link>http://forum.xda-developers.com/attachment.php?attachmentid=3098813</link>
+  <name>MiXplorer v5.1.0-B201502021</name>
+  <link>http://forum.xda-developers.com/attachment.php?attachmentid=3145312</link>
   <log>
     Notice: Version 4.x plugins are not compatible anymore!
     - Auto-update removed. So please follow MiXplorer@twitter.com to get update notification.
     
-    v5.0.23-201501051:
-    - Fixed wrong offset in system files modified time.
-    - Fixed wrong modified time in categories in latest builds.
-    - Added Split action bar option in settings page.
-    - Fixed status bar overlapping issue after changing Language or Skin.
-    - Changed to display drawer over action bar and related buttons moved into drawer.
-    - Changed title to "File Manager" in launcher.
-    - Fixed UI glitch on selecting items.
-    
-    v5.0.22-201501034:
-    - Added an option to settings to show the folder path in the main bar.
-    - Fixed some little bugs.
-
-    v5.0.21-201501014
-    - Fixed loading new saved skins.
-    - Fixed Go-to problem in Text editor for huge text files.
-    - Fixed hidden Python syntax highlighting.
-    - Fixed Opening drawer while holding items to transfer between folders.
-    - Fixed bug in extracting splitted zip files.
-    - Fixed Transparent theme problems while starting app. (not sure, waiting for feedback ....)
-    - Changed a sensitive code related to transferring Encrypted files between Networks/Clouds/Local.
-
-    v5.0.21-201501012
-    - Fixed loading skins.
-    - Fixed system files modified time.
-    
-    v5.0.21: 
-    - Optimized UI and some icons quality.
-    
-    v5.0.20: 
-    - Changed Package name to "com.android.mixplorer".
-    - Added MP3 Tag Editor.
-    - Moved History inside left drawer.
-    - Fixed to keep urls arrangement in History list.
-    - Added Skin customization.
-    - Added dual panel in landscape mode.
-    - Improved to encrypt password and tokens secret in database.
-    - Fixed to not create zip64 for small zip file.
-    - Added Next/Previous buttons in the Properties dialog when you choose multiple files.
-    - Fixed and Optimized streaming feature.
-    - Made a new powerful Text Editor.
-    - Improved SFTP client.
-    - Optimized UI.
-    - Fixed writing restriction in Kitkat.
-    - Fixed share from Clouds.
-    - Removed auto-update, please follow MiXplorer@twitter.com to get update notification.
-    - Removed Kill the app option, you can long-press Back button.
-    - And fixed other thousands bugs, I guess!
+    v5.1.0-201502021:
+    - Added Filter mode option to the main menu.
+    - Fixed mp3 tag editor issue on saving.
+    - Fixed Backup apk files in User and System app categories.
+    - Moved overflow button to Action bar when it's in bottom mode.
+    - Added option to disable swiping to right in first and to left in last tab.
+    - Added Tab bar and related menu options moved to it.
+    - Added some new options in tab menu.
+    - Improved to select an installed language addon after we perform a clean install of app.
+    - Added Share option to main menu of Text Editor.
+    - Fixed to encode uris for sending files.
+    - Improved to let you attach multiple files (Press Check button in top-left in action mode) when using app as a file picker. (If it's supported by the related app)
+    - Improved to select one of color schemes after you import a skin package and to update UI automatically.
+    - Fixed hiding soft keys in some of devices with old Android versions.
+    - Added an option to change Text Editor font, in Custom Skin settings.
+    - Fixed updating Media-store and Removed related option from settings.
+    - Improved to find last visible item after refreshing the list.
+    - Added auto thumb creator for custom skins.
+    - Added Toggle View Mode in Text editor.
+    - Improved to update lists automatically after changing or adding files in other apps.
+    - Fixed extracting thumbnails from mp3 files. (It still has problem with some of files!)
+    - Added Batch delete option for local directories.
+    - Added "Select all" option to the main menu.
+    - Added a separated option for customized skins in the settings page.
+    - Fixed adding files, folders into a zip file.
+    - Fixed WebDav bug related to providers which doesn't return creationdate property of the file.
+    - Added clickable link on View mode of Text Editor.
+    - Added "Clipboard" to Share options dialog.
+    - Added some new options in Rename dialog.
+    - Added more info about apk package in Open With... dialog, even for packages with newer sdk levels.
+    - Fixed downloading some of files from Google Drive.
+    - Fixed wrong syntax colors while scrolling in Text editor.
+    - Added Image metadata.
+    - Fixed a bug on changing and saving a text file for multiple times.
+    - Added creating empty pdf, odt, docx, ods, xlsx and pptx files.
+    - Added an option to hide folder icon preview in Detailed List view mode.
+    - Fixed executing shell in text editor.
+    - Added auto-detect encoding for Text editor.
+    - Removed Baidu cloud.
+    - And lots of bug fixes and tiny changes.
   </log>
   <donate>w.parsa@gmail.com</donate>
   <auto>true</auto>
